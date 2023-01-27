@@ -14,5 +14,5 @@ Files are ordered in concerned folders; which include Markdown files, Brower Ver
 
 # OR
 
-## ## Download or copy the codes of .R file and run in your RStudio Console 
+## Download or copy the codes of .R file and run in your RStudio Console 
 
