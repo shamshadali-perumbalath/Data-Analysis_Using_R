@@ -11,3 +11,8 @@ Files are ordered in concerned folders; which include Markdown files, Brower Ver
 
 
 ## Download or copy the codes of .rmd file and run in your RStudio Console 
+
+# OR
+
+## ## Download or copy the codes of .R file and run in your RStudio Console 
+
